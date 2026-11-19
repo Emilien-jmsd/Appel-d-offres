@@ -1,3 +1,9 @@
+body {
+  background-color: #125cbd;
+  text-align: center;
+  font-size: 24px;
+  font-family: Arial, sans-serif;
+}
 table {
   text-align: center;
   border: 1px solid black;
