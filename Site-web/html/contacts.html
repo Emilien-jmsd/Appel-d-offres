@@ -4,16 +4,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact</title>
+    <link href="../css/contacts.css" rel="stylesheet" />
 </head>
 <body>
-    <form action="https://formspree.io/f/mwlobwzz" method="POST">
-    <label for="mail">Mail :</label><br>
-    <input type="email" id="mail" name="mail" value="" required><br><br>
-    
-    <label for="message">Message :</label><br>
-    <textarea id="message" name="message" rows="4" cols="50" required></textarea><br><br>
-    
-    <input type="submit" value="Envoyer">
+    <h1><u>Vous cherchez à nous contacter ?</u></h1>
+    <form class="form" action="https://formspree.io/f/mwlobwzz" method="POST">
+        <label for="mail"><h2><u>MAIL :</u></h2></label><br>
+        <input type="email" id="mail" name="mail" value="" required><br><br>
+        
+        <label for="message"><h2><u>MESSAGE :</u></h2></label><br>
+        <textarea id="message" name="message" rows="10" cols="50" class="textarea"></textarea><br><br>
+        
+        <input type="submit" value="Envoyer">
     </form> 
 </body>
 </html>
