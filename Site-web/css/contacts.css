@@ -1,12 +1,12 @@
 body {
-    background-color: #4A3728;
+    background-color: #066dc2;
     text-align: center;
 }
 
 .form {
     display: inline-block;
     text-align: left;
-    background-color: #fdfbd4;
+    background-color: #ffffff;
     padding: 20px;
     border-radius: 10px;
     position: relative;
@@ -16,11 +16,11 @@ body {
     resize: none;
 }
 h1 {
-    color : #4A3728;
+    color : black;
 }
 
 h2 {
-    color : #4A3728;
+    color : black;
 }
 .header {
   display: flex;
