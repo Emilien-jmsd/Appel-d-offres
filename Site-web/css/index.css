@@ -33,3 +33,11 @@ td {
   align-items: center;
   justify-content: center;
 }
+p{
+  color: #ffffff;
+}
+h1 {
+  text-align: center;
+  text-decoration: underline;
+  color: black;
+}
