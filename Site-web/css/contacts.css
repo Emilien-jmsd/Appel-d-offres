@@ -22,3 +22,20 @@ h1 {
 h2 {
     color : #4A3728;
 }
+.header {
+  display: flex;
+  flex-direction: row;
+  gap: 80px;
+  align-items: center;
+  justify-content: center;
+}
+.nav-links {
+  font-size: 40px;
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: row;
+  gap: 80px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
