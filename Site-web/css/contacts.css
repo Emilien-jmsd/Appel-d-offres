@@ -1,13 +1,12 @@
 body {
-    
-    background: #170bbd;
+    background-color: #4A3728;
     text-align: center;
 }
 
 .form {
     display: inline-block;
     text-align: left;
-    background-color: #ffffff;
+    background-color: #fdfbd4;
     padding: 20px;
     border-radius: 10px;
     position: relative;
@@ -15,4 +14,11 @@ body {
 }
 .textarea {
     resize: none;
+}
+h1 {
+    color : #4A3728;
+}
+
+h2 {
+    color : #4A3728;
 }
