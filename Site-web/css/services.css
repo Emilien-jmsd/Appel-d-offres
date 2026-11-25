@@ -1,5 +1,5 @@
 body {
-  background-color: #4A3728;
+  background-color: #066dc2;
   text-align: center;
   font-size: 24px;
   font-family: Arial, sans-serif;
@@ -32,4 +32,12 @@ td {
   text-align: center;
   align-items: center;
   justify-content: center;
+}
+p{
+  color: #ffffff;
+}
+h1 {
+  text-align: center;
+  text-decoration: underline;
+  color: black;
 }
